@@ -1,0 +1,44 @@
+{
+  "last_sync": "2026-11-21T16:22:37.265019Z",
+  "total_active_listings": 8,
+  "new_this_week": 5,
+  "criteria": {
+    "type": "Unifamiliar (independiente, pareado, urbanización o aislado)",
+    "min_plot_m2": 500,
+    "has_porch": true,
+    "min_bedrooms": 4,
+    "min_bathrooms": 2,
+    "zones": [
+      "Santa Cruz",
+      "Montrove",
+      "Perillo",
+      "Liáns"
+    ]
+  },
+  "portals_monitored": [
+    {
+      "name": "Idealista",
+      "status": "Conectado / Activo"
+    },
+    {
+      "name": "Fotocasa",
+      "status": "Conectado / Activo"
+    },
+    {
+      "name": "Habitaclia",
+      "status": "Conectado / Activo"
+    },
+    {
+      "name": "Pisos.com",
+      "status": "Conectado / Activo"
+    },
+    {
+      "name": "YaEncontre",
+      "status": "Conectado / Activo"
+    },
+    {
+      "name": "Inmobiliarias Locales (Urbenorte, Engel & Völkers)",
+      "status": "Conectado / Activo"
+    }
+  ]
+}

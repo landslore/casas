@@ -1,0 +1,83 @@
+name: Actualizar Viviendas Oleiros (Cada 6 Horas) y Despliegue
+
+on:
+  schedule:
+    # Ejecución automática cada 6 horas: 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      force_rescan:
+        description: 'Forzar reescaneo completo de portales inmobiliarios'
+        required: false
+        default: 'true'
+        type: boolean
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: true
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Ejecutar motor de recopilación y cálculo de distancias
+        run: |
+          python scripts/scraper.py
+
+      - name: Comprobar cambios en datos y hacer commit
+        id: git_check
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          if git diff --staged --quiet; then
+            echo "No hay cambios nuevos en los datos."
+          else
+            git commit -m "chore(data): actualización periódica de viviendas y servicios Oleiros [skip ci]"
+            git push origin main || echo "Push no requerido o conflicto prevenido"
+          fi
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Instalar dependencias web
+        run: npm ci
+
+      - name: Compilar aplicación web
+        run: npm run build
+
+      - name: Configurar GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Subir artefacto de GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
