@@ -27,8 +27,8 @@
       "https://static.fotocasa.es/images/ads/07040c0a-5b50-4300-a86c-d010a72f19ca?rule=original",
       "https://static.fotocasa.es/images/ads/624f89f8-bca7-4c74-a732-46801407af2b?rule=original"
     ],
-    "discovered_at": "2026-11-21T17:10:15.426209Z",
-    "updated_at": "2026-11-21T17:10:15.426217Z",
+    "discovered_at": "2026-11-21T22:52:25.587260Z",
+    "updated_at": "2026-11-21T22:52:25.587269Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 1129,
@@ -160,8 +160,8 @@
       "https://static.fotocasa.es/images/ads/788236e9-15b6-429f-9311-d25ec2e7fa38?rule=original",
       "https://static.fotocasa.es/images/ads/dbd16827-201f-44cb-819b-0e8b3391f5bf?rule=original"
     ],
-    "discovered_at": "2026-11-21T17:10:15.426505Z",
-    "updated_at": "2026-11-21T17:10:15.426507Z",
+    "discovered_at": "2026-11-21T22:52:25.587561Z",
+    "updated_at": "2026-11-21T22:52:25.587563Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2689,
@@ -293,8 +293,8 @@
       "https://static.fotocasa.es/images/ads/c6fb70c1-4c9e-4bc4-bad7-6dbb63b090ff?rule=original",
       "https://static.fotocasa.es/images/ads/e853f0dd-f496-46a2-8883-65ef43245ce2?rule=original"
     ],
-    "discovered_at": "2026-11-21T17:10:15.426745Z",
-    "updated_at": "2026-11-21T17:10:15.426746Z",
+    "discovered_at": "2026-11-21T22:52:25.587808Z",
+    "updated_at": "2026-11-21T22:52:25.587809Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2061,
@@ -426,8 +426,8 @@
       "https://static.fotocasa.es/images/ads/e61b0966-0034-4f3d-b040-88baf5297b0f?rule=original",
       "https://static.fotocasa.es/images/ads/d8e86865-57c5-4e4d-bba9-c8fcc67fd78f?rule=original"
     ],
-    "discovered_at": "2026-11-21T17:10:15.427152Z",
-    "updated_at": "2026-11-21T17:10:15.427153Z",
+    "discovered_at": "2026-11-21T22:52:25.588225Z",
+    "updated_at": "2026-11-21T22:52:25.588226Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 1634,
@@ -532,7 +532,7 @@
     "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.332643092077355,-8.373429226310515"
   },
   {
-    "id": "pc-101580924420044815",
+    "id": "pc-171850302733226030",
     "title": "Casa en Rúa da Mina, 3 en Perillo",
     "portal": "Pisos.com",
     "portal_url": "https://www.pisos.com/comprar/casa-perillo-68393694600_109200/",
@@ -556,8 +556,8 @@
       "https://fotos.imghs.net/mm-wp/1092/3230323631303134/25ea2a7c-12a5-46b6-b394-799d5c51208d.jpg",
       "https://fotos.imghs.net/mm-wp/1092/3230323631303134/93e1c896-a080-4e53-9e34-8b7fba2d27fa.jpg"
     ],
-    "discovered_at": "2026-11-21T17:10:17.225220Z",
-    "updated_at": "2026-11-21T17:10:17.225231Z",
+    "discovered_at": "2026-11-21T22:52:26.747549Z",
+    "updated_at": "2026-11-21T22:52:26.747559Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2689,
@@ -662,7 +662,7 @@
     "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
   },
   {
-    "id": "pc-6871981716742516437",
+    "id": "pc-7006593286298522204",
     "title": "Casa en Rúa da Mina, 3 en Perillo",
     "portal": "Pisos.com",
     "portal_url": "https://www.pisos.com/comprar/casa-perillo-68412244537_109200/",
@@ -686,8 +686,8 @@
       "https://fotos.imghs.net/mm-wp/1092/3230323631303134/25ea2a7c-12a5-46b6-b394-799d5c51208d.jpg",
       "https://fotos.imghs.net/mm-wp/1092/3230323631303134/e4d492f8-efc9-45c9-aafa-fff0561b054b.jpg"
     ],
-    "discovered_at": "2026-11-21T17:10:17.225405Z",
-    "updated_at": "2026-11-21T17:10:17.225408Z",
+    "discovered_at": "2026-11-21T22:52:26.747667Z",
+    "updated_at": "2026-11-21T22:52:26.747668Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2837,
@@ -792,7 +792,7 @@
     "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
   },
   {
-    "id": "pc-1192581662023707374",
+    "id": "pc-5235808403914722522",
     "title": "Chalet en Avenida de Ernesto 'Che' Guevara en Perillo",
     "portal": "Pisos.com",
     "portal_url": "https://www.pisos.com/comprar/chalet-perillo-55003147810_100500/",
@@ -817,8 +817,8 @@
       "https://fotos.imghs.net/mm-wp/1005/394/1005_258508275394_2_2025062018064837017.jpg",
       "https://fotos.imghs.net/prof-wp/logos/logo_168450_120702018112615.jpg"
     ],
-    "discovered_at": "2026-11-21T17:10:17.225784Z",
-    "updated_at": "2026-11-21T17:10:17.225787Z",
+    "discovered_at": "2026-11-21T22:52:26.747915Z",
+    "updated_at": "2026-11-21T22:52:26.747917Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2282,
@@ -923,7 +923,7 @@
     "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
   },
   {
-    "id": "pc-1237025044765314779",
+    "id": "pc-2664065719857671089",
     "title": "Chalet pareado en Perillo en Perillo",
     "portal": "Pisos.com",
     "portal_url": "https://www.pisos.com/comprar/chalet_pareado-perillo-67557846170_106000/",
@@ -948,8 +948,8 @@
       "https://fotos.imghs.net/mm-wp/1060/3230323630363032/af131c40-761e-4588-b13a-645a2630d33c.jpg",
       "https://fotos.imghs.net/prof-wp/logos/logo_996378.jpg"
     ],
-    "discovered_at": "2026-11-21T17:10:17.225982Z",
-    "updated_at": "2026-11-21T17:10:17.225986Z",
+    "discovered_at": "2026-11-21T22:52:26.748062Z",
+    "updated_at": "2026-11-21T22:52:26.748064Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 1634,
