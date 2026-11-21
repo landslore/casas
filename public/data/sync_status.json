@@ -1,20 +1,6 @@
 {
-  "last_sync": "2026-11-21T17:00:25.386128Z",
-  "total_active_listings": 13,
-  "new_this_week": 13,
-  "source": "Rastreo REAL en vivo desde Fotocasa y Pisos.com",
-  "portals_monitored": [
-    {
-      "name": "Fotocasa",
-      "status": "Rastreo en vivo activo"
-    },
-    {
-      "name": "Pisos.com",
-      "status": "Rastreo en vivo activo"
-    },
-    {
-      "name": "Idealista",
-      "status": "Enlace directo preparado"
-    }
-  ]
+  "last_sync": "2026-11-21T17:10:17.226578Z",
+  "total_active_listings": 8,
+  "new_this_week": 8,
+  "source": "100% Extracción real de Fotocasa y Pisos.com con precios exactos de cada ficha"
 }
