@@ -1,153 +1,20 @@
 {
-  "generated_at": "2026-11-25T07:29:40.073710Z",
+  "generated_at": "2026-11-25T21:15:05.817884Z",
   "week_label": "Semana 48 de 2026",
   "period_from": "18/11/2026",
   "period_to": "25/11/2026",
-  "total_new_this_week": 7,
-  "avg_price_new": 1093714,
-  "avg_plot_m2_new": 1410,
+  "total_new_this_week": 6,
+  "avg_price_new": 1055500,
+  "avg_plot_m2_new": 1521,
   "zones_breakdown": {
-    "Perillo": 6,
-    "Liáns": 1
+    "Liáns": 1,
+    "Perillo": 5
   },
   "portals_breakdown": {
-    "Fotocasa": 3,
+    "Fotocasa": 2,
     "Pisos.com": 4
   },
   "properties": [
-    {
-      "id": "fc-191105734",
-      "title": "Chalet en Perillo: Rua Mina, 3, Perillo",
-      "portal": "Fotocasa",
-      "portal_url": "https://www.fotocasa.es/es/comprar/vivienda/oleiros/aire-acondicionado-calefaccion-parking-jardin-terraza-trastero-zona-comunitaria-piscina/191105734/d",
-      "zone": "Perillo",
-      "full_address": "Rua Mina, 3, Perillo, Perillo, Oleiros (A Coruña)",
-      "lat": 43.334596,
-      "lng": -8.369815,
-      "property_type": "Chalet independiente",
-      "setting": "Zona residencial consolidada",
-      "price": 1323000,
-      "currency": "€",
-      "built_m2": 492,
-      "plot_m2": 742,
-      "bedrooms": 5,
-      "bathrooms": 5,
-      "has_porch": true,
-      "porch_description": "En la planta principal, el amplio salón comedor se abre mediante grandes correderas acristaladas al porche y al jardín privado orientado al sur",
-      "garage_spots": 5,
-      "description": "ARCADIA es una exclusiva urbanización privada de obra nueva en Perillo, Oleiros, formada por solo 13 villas independientes. Concebidas para disfrutar de la privacidad, el confort y la amplitud, combinan una cuidada arquitectura con calidad constructiva, eficiencia y facilidad de mantenimiento. La separación mínima de cuatro metros entre viviendas refuerza su independencia.\n\nLa promoción ofrece dos tipologías: 488 m² construidos y 417 m² útiles, o 393 m² construidos y 323 m² útiles, distribuidos en tres plantas.\n\nEn la planta principal, el amplio salón comedor se abre mediante grandes correderas acristaladas al porche y al jardín privado orien...",
-      "photos": [
-        "https://static.fotocasa.es/images/ads/debbac94-ce67-4277-aafd-a8002bf60891?rule=original",
-        "https://static.fotocasa.es/images/ads/8d6d7378-504c-4b60-b7c5-eadfbd89d4a5?rule=original",
-        "https://static.fotocasa.es/images/ads/6bada491-ebec-49c0-8a16-68b256ef8cf1?rule=original",
-        "https://static.fotocasa.es/images/ads/788236e9-15b6-429f-9311-d25ec2e7fa38?rule=original",
-        "https://static.fotocasa.es/images/ads/dbd16827-201f-44cb-819b-0e8b3391f5bf?rule=original"
-      ],
-      "discovered_at": "2026-11-25T07:29:39.194814Z",
-      "updated_at": "2026-11-25T07:29:39.194823Z",
-      "status": "Activo",
-      "is_new_this_week": true,
-      "price_per_m2": 2689,
-      "nearby_services": [
-        {
-          "poi_id": "gadis_hiper_perillo",
-          "name": "Gadis Híper Perillo",
-          "category": "supermercados",
-          "description": "Gran superficie de alimentación en Perillo",
-          "distance_km": 0.3,
-          "drive_mins": 1,
-          "walk_mins": 4,
-          "gmaps_route_url": "https://www.google.com/maps/dir/?api=1&origin=43.334596,-8.369815&destination=43.3328,-8.3688&travelmode=driving",
-          "lat": 43.3328,
-          "lng": -8.3688
-        },
-        {
-          "poi_id": "playa_santa_cristina",
-          "name": "Playa de Santa Cristina",
-          "category": "playas",
-          "description": "Arenal y deportes náuticos en Perillo",
-          "distance_km": 0.9,
-          "drive_mins": 1,
-          "walk_mins": 12,
-          "gmaps_route_url": "https://www.google.com/maps/dir/?api=1&origin=43.334596,-8.369815&destination=43.3392,-8.3755&travelmode=driving",
-          "lat": 43.3392,
-          "lng": -8.3755
-        },
-        {
-          "poi_id": "puente_pasaje",
-          "name": "Puente del Pasaje (Acceso A Coruña)",
-          "category": "transporte",
-          "description": "Entrada directa a Alfonso Molina y A Coruña (10 min)",
-          "distance_km": 1.1,
-          "drive_mins": 2,
-          "walk_mins": 15,
-          "gmaps_route_url": "https://www.google.com/maps/dir/?api=1&origin=43.334596,-8.369815&destination=43.3342,-8.3808&travelmode=driving",
-          "lat": 43.3342,
-          "lng": -8.3808
-        },
-        {
-          "poi_id": "colegio_miraflores",
-          "name": "Colegio Miraflores (Montrove)",
-          "category": "colegios",
-          "description": "Colegio bilingüe concertado en Montrove",
-          "distance_km": 1.8,
-          "drive_mins": 3,
-          "walk_mins": 24,
-          "gmaps_route_url": "https://www.google.com/maps/dir/?api=1&origin=43.334596,-8.369815&destination=43.3361,-8.3519&travelmode=driving",
-          "lat": 43.3361,
-          "lng": -8.3519
-        },
-        {
-          "poi_id": "playa_bastiagueiro",
-          "name": "Playa de Bastiagueiro",
-          "category": "playas",
-          "description": "Playa de surf y paseo marítimo",
-          "distance_km": 2.7,
-          "drive_mins": 4,
-          "walk_mins": 36,
-          "gmaps_route_url": "https://www.google.com/maps/dir/?api=1&origin=43.334596,-8.369815&destination=43.3486,-8.3512&travelmode=driving",
-          "lat": 43.3486,
-          "lng": -8.3512
-        },
-        {
-          "poi_id": "playa_santa_cruz",
-          "name": "Castillo y Playa de Santa Cruz",
-          "category": "playas",
-          "description": "Castillo histórico de Santa Cruz y puerto",
-          "distance_km": 3.1,
-          "drive_mins": 5,
-          "walk_mins": 41,
-          "gmaps_route_url": "https://www.google.com/maps/dir/?api=1&origin=43.334596,-8.369815&destination=43.3511,-8.349&travelmode=driving",
-          "lat": 43.3511,
-          "lng": -8.349
-        },
-        {
-          "poi_id": "mercadona_santacruz",
-          "name": "Mercadona Santa Cruz",
-          "category": "supermercados",
-          "description": "Supermercado principal de Santa Cruz",
-          "distance_km": 3.1,
-          "drive_mins": 5,
-          "walk_mins": 41,
-          "gmaps_route_url": "https://www.google.com/maps/dir/?api=1&origin=43.334596,-8.369815&destination=43.3445,-8.3421&travelmode=driving",
-          "lat": 43.3445,
-          "lng": -8.3421
-        },
-        {
-          "poi_id": "ceip_isidro_parga",
-          "name": "CEIP Isidro Parga Pondal (Santa Cruz)",
-          "category": "colegios",
-          "description": "Colegio público en Santa Cruz",
-          "distance_km": 3.5,
-          "drive_mins": 5,
-          "walk_mins": 47,
-          "gmaps_route_url": "https://www.google.com/maps/dir/?api=1&origin=43.334596,-8.369815&destination=43.349,-8.342&travelmode=driving",
-          "lat": 43.349,
-          "lng": -8.342
-        }
-      ],
-      "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.334596,-8.369815"
-    },
     {
       "id": "fc-191167893",
       "title": "Chalet en Liáns: Liáns",
@@ -176,8 +43,8 @@
         "https://static.fotocasa.es/images/ads/c6fb70c1-4c9e-4bc4-bad7-6dbb63b090ff?rule=original",
         "https://static.fotocasa.es/images/ads/e853f0dd-f496-46a2-8883-65ef43245ce2?rule=original"
       ],
-      "discovered_at": "2026-11-25T07:29:39.195044Z",
-      "updated_at": "2026-11-25T07:29:39.195046Z",
+      "discovered_at": "2026-11-25T21:15:04.789350Z",
+      "updated_at": "2026-11-25T21:15:04.789357Z",
       "status": "Activo",
       "is_new_this_week": true,
       "price_per_m2": 2061,
@@ -309,8 +176,8 @@
         "https://static.fotocasa.es/images/ads/e61b0966-0034-4f3d-b040-88baf5297b0f?rule=original",
         "https://static.fotocasa.es/images/ads/d8e86865-57c5-4e4d-bba9-c8fcc67fd78f?rule=original"
       ],
-      "discovered_at": "2026-11-25T07:29:39.195428Z",
-      "updated_at": "2026-11-25T07:29:39.195429Z",
+      "discovered_at": "2026-11-25T21:15:04.790040Z",
+      "updated_at": "2026-11-25T21:15:04.790043Z",
       "status": "Activo",
       "is_new_this_week": true,
       "price_per_m2": 1634,
@@ -415,7 +282,7 @@
       "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.332643092077355,-8.373429226310515"
     },
     {
-      "id": "pc-7671191203888806323",
+      "id": "pc-3024183824290099290",
       "title": "Casa en Rúa da Mina, 3 en Perillo",
       "portal": "Pisos.com",
       "portal_url": "https://www.pisos.com/comprar/casa-perillo-68393694600_109200/",
@@ -439,8 +306,8 @@
         "https://fotos.imghs.net/mm-wp/1092/3230323631303134/25ea2a7c-12a5-46b6-b394-799d5c51208d.jpg",
         "https://fotos.imghs.net/mm-wp/1092/3230323631303134/93e1c896-a080-4e53-9e34-8b7fba2d27fa.jpg"
       ],
-      "discovered_at": "2026-11-25T07:29:40.072703Z",
-      "updated_at": "2026-11-25T07:29:40.072714Z",
+      "discovered_at": "2026-11-25T21:15:05.816625Z",
+      "updated_at": "2026-11-25T21:15:05.816634Z",
       "status": "Activo",
       "is_new_this_week": true,
       "price_per_m2": 2689,
@@ -545,7 +412,7 @@
       "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
     },
     {
-      "id": "pc-7217797262443023940",
+      "id": "pc-6638814277541459909",
       "title": "Casa en Rúa da Mina, 3 en Perillo",
       "portal": "Pisos.com",
       "portal_url": "https://www.pisos.com/comprar/casa-perillo-68412244537_109200/",
@@ -569,8 +436,8 @@
         "https://fotos.imghs.net/mm-wp/1092/3230323631303134/25ea2a7c-12a5-46b6-b394-799d5c51208d.jpg",
         "https://fotos.imghs.net/mm-wp/1092/3230323631303134/e4d492f8-efc9-45c9-aafa-fff0561b054b.jpg"
       ],
-      "discovered_at": "2026-11-25T07:29:40.073052Z",
-      "updated_at": "2026-11-25T07:29:40.073053Z",
+      "discovered_at": "2026-11-25T21:15:05.817082Z",
+      "updated_at": "2026-11-25T21:15:05.817085Z",
       "status": "Activo",
       "is_new_this_week": true,
       "price_per_m2": 2837,
@@ -675,7 +542,7 @@
       "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
     },
     {
-      "id": "pc-3454112571149612110",
+      "id": "pc-8806174034875545346",
       "title": "Chalet en Avenida de Ernesto 'Che' Guevara en Perillo",
       "portal": "Pisos.com",
       "portal_url": "https://www.pisos.com/comprar/chalet-perillo-55003147810_100500/",
@@ -700,8 +567,8 @@
         "https://fotos.imghs.net/mm-wp/1005/394/1005_258508275394_2_2025062018064837017.jpg",
         "https://fotos.imghs.net/prof-wp/logos/logo_168450_120702018112615.jpg"
       ],
-      "discovered_at": "2026-11-25T07:29:40.073242Z",
-      "updated_at": "2026-11-25T07:29:40.073243Z",
+      "discovered_at": "2026-11-25T21:15:05.817323Z",
+      "updated_at": "2026-11-25T21:15:05.817325Z",
       "status": "Activo",
       "is_new_this_week": true,
       "price_per_m2": 2282,
@@ -806,7 +673,7 @@
       "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
     },
     {
-      "id": "pc-6408602850620619444",
+      "id": "pc-2617444091287197835",
       "title": "Chalet pareado en Perillo en Perillo",
       "portal": "Pisos.com",
       "portal_url": "https://www.pisos.com/comprar/chalet_pareado-perillo-67557846170_106000/",
@@ -831,8 +698,8 @@
         "https://fotos.imghs.net/mm-wp/1060/3230323630363032/af131c40-761e-4588-b13a-645a2630d33c.jpg",
         "https://fotos.imghs.net/prof-wp/logos/logo_996378.jpg"
       ],
-      "discovered_at": "2026-11-25T07:29:40.073456Z",
-      "updated_at": "2026-11-25T07:29:40.073456Z",
+      "discovered_at": "2026-11-25T21:15:05.817594Z",
+      "updated_at": "2026-11-25T21:15:05.817596Z",
       "status": "Activo",
       "is_new_this_week": true,
       "price_per_m2": 1634,
@@ -942,8 +809,8 @@
       "week_number": 48,
       "year": 2026,
       "label": "Semana 48 (Actual)",
-      "count": 7,
-      "avg_price": 1093714
+      "count": 6,
+      "avg_price": 1055500
     }
   ]
 }
