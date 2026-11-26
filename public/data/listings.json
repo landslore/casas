@@ -27,8 +27,8 @@
       "https://static.fotocasa.es/images/ads/c6fb70c1-4c9e-4bc4-bad7-6dbb63b090ff?rule=original",
       "https://static.fotocasa.es/images/ads/e853f0dd-f496-46a2-8883-65ef43245ce2?rule=original"
     ],
-    "discovered_at": "2026-11-26T07:18:52.534324Z",
-    "updated_at": "2026-11-26T07:18:52.534335Z",
+    "discovered_at": "2026-11-26T21:03:54.626980Z",
+    "updated_at": "2026-11-26T21:03:54.626987Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2061,
@@ -160,8 +160,8 @@
       "https://static.fotocasa.es/images/ads/e61b0966-0034-4f3d-b040-88baf5297b0f?rule=original",
       "https://static.fotocasa.es/images/ads/d8e86865-57c5-4e4d-bba9-c8fcc67fd78f?rule=original"
     ],
-    "discovered_at": "2026-11-26T07:18:52.535106Z",
-    "updated_at": "2026-11-26T07:18:52.535109Z",
+    "discovered_at": "2026-11-26T21:03:54.627663Z",
+    "updated_at": "2026-11-26T21:03:54.627665Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 1634,
@@ -266,7 +266,7 @@
     "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.332643092077355,-8.373429226310515"
   },
   {
-    "id": "pc-1177624195680120179",
+    "id": "pc-2884500691334077652",
     "title": "Casa en Rúa da Mina, 3 en Perillo",
     "portal": "Pisos.com",
     "portal_url": "https://www.pisos.com/comprar/casa-perillo-68412244537_109200/",
@@ -290,8 +290,8 @@
       "https://fotos.imghs.net/mm-wp/1092/3230323631303134/25ea2a7c-12a5-46b6-b394-799d5c51208d.jpg",
       "https://fotos.imghs.net/mm-wp/1092/3230323631303134/e4d492f8-efc9-45c9-aafa-fff0561b054b.jpg"
     ],
-    "discovered_at": "2026-11-26T07:18:54.695092Z",
-    "updated_at": "2026-11-26T07:18:54.695104Z",
+    "discovered_at": "2026-11-26T21:03:55.710104Z",
+    "updated_at": "2026-11-26T21:03:55.710113Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2837,
@@ -396,7 +396,7 @@
     "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
   },
   {
-    "id": "pc-8473164356309006715",
+    "id": "pc-3592557907925000817",
     "title": "Casa en Rúa da Mina, 3 en Perillo",
     "portal": "Pisos.com",
     "portal_url": "https://www.pisos.com/comprar/casa-perillo-68393694600_109200/",
@@ -420,8 +420,8 @@
       "https://fotos.imghs.net/mm-wp/1092/3230323631303134/25ea2a7c-12a5-46b6-b394-799d5c51208d.jpg",
       "https://fotos.imghs.net/mm-wp/1092/3230323631303134/93e1c896-a080-4e53-9e34-8b7fba2d27fa.jpg"
     ],
-    "discovered_at": "2026-11-26T07:18:54.695488Z",
-    "updated_at": "2026-11-26T07:18:54.695489Z",
+    "discovered_at": "2026-11-26T21:03:55.710552Z",
+    "updated_at": "2026-11-26T21:03:55.710554Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2689,
@@ -526,7 +526,7 @@
     "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
   },
   {
-    "id": "pc-7012356518465801215",
+    "id": "pc-7526351959716851967",
     "title": "Chalet en Avenida de Ernesto 'Che' Guevara en Perillo",
     "portal": "Pisos.com",
     "portal_url": "https://www.pisos.com/comprar/chalet-perillo-55003147810_100500/",
@@ -551,8 +551,8 @@
       "https://fotos.imghs.net/mm-wp/1005/394/1005_258508275394_2_2025062018064837017.jpg",
       "https://fotos.imghs.net/prof-wp/logos/logo_168450_120702018112615.jpg"
     ],
-    "discovered_at": "2026-11-26T07:18:54.695691Z",
-    "updated_at": "2026-11-26T07:18:54.695692Z",
+    "discovered_at": "2026-11-26T21:03:55.710796Z",
+    "updated_at": "2026-11-26T21:03:55.710798Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 2282,
@@ -657,7 +657,7 @@
     "gmaps_location_url": "https://www.google.com/maps/search/?api=1&query=43.3345,-8.3692"
   },
   {
-    "id": "pc-5225983400741161632",
+    "id": "pc-6499565535783687031",
     "title": "Chalet pareado en Perillo en Perillo",
     "portal": "Pisos.com",
     "portal_url": "https://www.pisos.com/comprar/chalet_pareado-perillo-67557846170_106000/",
@@ -682,8 +682,8 @@
       "https://fotos.imghs.net/mm-wp/1060/3230323630363032/af131c40-761e-4588-b13a-645a2630d33c.jpg",
       "https://fotos.imghs.net/prof-wp/logos/logo_996378.jpg"
     ],
-    "discovered_at": "2026-11-26T07:18:54.695918Z",
-    "updated_at": "2026-11-26T07:18:54.695919Z",
+    "discovered_at": "2026-11-26T21:03:55.710942Z",
+    "updated_at": "2026-11-26T21:03:55.710943Z",
     "status": "Activo",
     "is_new_this_week": true,
     "price_per_m2": 1634,
